@@ -3,7 +3,7 @@
     text-align: center;
     margin-right:40px;
     margin-left:40px;
-    
+    justify-content: center;
 }
 
 .flex-child {
